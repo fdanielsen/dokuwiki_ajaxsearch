@@ -1,0 +1,7 @@
+base   ajaxsearch
+author Frode Danielsen
+email  frode@e5r.no
+date   2016-11-02
+name   ajaxsearch plugin
+desc   Asynchronous full text search
+url    https://github.com/fdanielsen/dokuwiki_ajaxsearch
